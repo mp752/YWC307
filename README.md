@@ -1,1 +1,11 @@
-# YWC307
+Cover page
+================
+
+## Project Description
+
+This is a presentation about reduced instruction set computers or RISC.
+The main goal of the presentation is to compare it to complex
+instruction set computers or CISC which is used on almost all desktop
+and laptop computers.
+
+![Presentation Image](https://i.imgur.com/RsKPc4u.png)
